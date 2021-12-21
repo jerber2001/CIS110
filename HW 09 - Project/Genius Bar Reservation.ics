@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-WR-CALNAME:Genius Bar Reservation - iPhone
+PRODID:Concierge
+X-WR-TIMEZONE;VALUE=TEXT:America/New_York
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+LOCATION:Southpoint\n8030 Renaissance Parkway\, Durham\, North Carolina\, 27713
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Southpoint\n8030 Renaissance Parkway\, Durham\, North Carolina\, 27713":geo:35.905106,-78.943003
+DTSTAMP:20211217T233540
+DTSTART;TZID=America/New_York:20211218T112000
+DESCRIPTION:Apple Retail Store: http://www.apple.com/retail/southpoint\n\nPrepare for and Manage your reservation: https://getsupport.apple.com/en/US/101580476079/GetCaseDetails?cid=acs::geniusbar.email&amp;cd=izjmTZkwepk%2BdfwzxXtO86URqQPy5gFX8OkfCupOBxU%3D
+SUMMARY:Genius Bar Reservation - iPhone
+DTEND;TZID=America/New_York:20211218T113000
+UID:9dfe9a3a-97e2-4703-ad91-eb18325bdd96
+END:VEVENT
+END:VCALENDAR
